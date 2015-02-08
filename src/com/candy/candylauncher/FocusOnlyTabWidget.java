@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ;
+package com.candy.candylauncher;
 
 import android.content.Context;
 import android.util.AttributeSet;

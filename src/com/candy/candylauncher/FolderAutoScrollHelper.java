@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ;
+package com.candy.candylauncher;
 
 import android.support.v4.widget.AutoScrollHelper;
 import android.widget.ScrollView;
